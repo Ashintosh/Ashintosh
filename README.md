@@ -5,7 +5,7 @@
 ### Hi, my name is Ash 👋
 
 ### Contact
-- **Email**: &nbsp;  contact(at)ashs(dot)club
+- **Email**: &nbsp;  contact@ashs.club
 - **XMPP**: &nbsp;  ashsclub@jabber.calyxinstitute.org
 
 ### Skills 🛠️
