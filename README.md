@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Ashintosh&color=6aa6f8)<br>
 ![](https://img.shields.io/github/followers/Ashintosh?style=social)<br>
 ![](https://img.shields.io/github/stars/Ashintosh?style=social)<br>
-<!-- [![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/dayyass) -->
-<!-- [![](https://img.shields.io/twitter/follow/d_ayyass?style=social&label=Follow)](https://twitter.com/d_ayyass) -->
 
 ### Hi, my name is Ash 👋
 
