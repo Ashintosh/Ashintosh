@@ -5,7 +5,7 @@
 ### Hi, my name is Ash 👋
 
 ### Contact
-- **Email**: &nbsp;  hostname_contact(at)proton(dot)me
+- **Email**: &nbsp;  contact(at)ashs(dot)club
 - **XMPP**: &nbsp;  ashsclub@jabber.calyxinstitute.org
 
 ### Skills 🛠️
