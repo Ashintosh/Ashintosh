@@ -6,6 +6,10 @@
 
 ### Hi, my name is Ash 👋
 
+### Contact
+- **Email**: &nbsp;  hostname_contact(at)proton(dot)me
+- **XMPP**: &nbsp;  ashsclub@jabber.calyxinstitute.org
+
 ### Skills 🛠️
 - **Languages**: &nbsp;        C++, C#, Java, PHP, Python
 - **RDBMS**:   &nbsp;&nbsp;   MySQL
