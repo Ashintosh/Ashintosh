@@ -5,8 +5,8 @@
 ### Hi, my name is Ash 👋
 
 ### Contact
-- **Email**: &nbsp;  contact@ashs.club
-- **XMPP**: &nbsp;  ashsclub@jabber.calyxinstitute.org
+- **Email**: &nbsp;  ash@opensrc.one
+- **Discord**: &nbsp;  AsH#2345
 
 ### Skills 🛠️
 - **Languages**: &nbsp;        C++, C#, Java, PHP, Python
