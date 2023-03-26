@@ -10,8 +10,8 @@
 
 ### Skills 🛠️
 - **Languages**: &nbsp;        C++, C#, Java, PHP, Python
-- **RDBMS**:   &nbsp;&nbsp;   MySQL
-- **DevOps**:  &ensp;&nbsp;&nbsp;    Linux, Git, Docker, Nginx
+- **RDBMS**:   &nbsp;&nbsp;   MySQL, MariaDB
+- **DevOps**:  &ensp;&nbsp;&nbsp;    Linux, Git, Docker, Nginx, Proxmox
 
 ### Projects 🐾
 - [seed-obfuscator](https://github.com/Ashintosh/seed-obfuscator) - Obfuscate cryptocurrency seed phrases using a custom passphrase
