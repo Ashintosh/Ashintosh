@@ -14,7 +14,7 @@
 - **DevOps**:  &ensp;&nbsp;&nbsp;    Debian, Git, Docker, Nginx, Proxmox
 
 ### Projects 🐾
-- [seed-encryptor](https://github.com/opensrc-one/seed-encryptor) - Encrypt BIP39 seed phrases for secure physical backups
+- None
 
 ### Github Stats ⭐
 [![Ash's github stats](https://github-readme-stats.vercel.app/api?username=Ashintosh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
