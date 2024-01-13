@@ -6,7 +6,7 @@
 
 ### Contact
 - **Email**: &nbsp;  ash(at)opensrc(dot)one
-- **Discord**: &nbsp;  AsH#2345
+- **Discord**: &nbsp;  @ashintosh
 
 ### Skills 🛠️
 - **Languages**: &nbsp;        C++, C#, Java, PHP, Python, Rust
