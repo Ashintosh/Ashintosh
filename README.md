@@ -14,6 +14,7 @@
 - **DevOps**:  &ensp;&nbsp;&nbsp;    Debian, Git, Docker, Nginx, Proxmox
 
 ### Projects 🐾
+- [hoosat-wallet-desktop](https://github.com/Ashintosh/hoosat-wallet-desktop)
 - [address-translation-layer](https://github.com/Ashintosh/address-translation-layer)
 
 ### Github Stats ⭐
