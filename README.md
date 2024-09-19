@@ -5,7 +5,7 @@
 ### Hi, my name is Ash 👋
 
 ### Contact
-- **Email**: &nbsp;  ash(at)opensrc(dot)one
+- **Email**: &nbsp;  ash(at)opensrcit(dot)com
 - **Discord**: &nbsp;  @ashintosh
 
 ### Skills 🛠️
