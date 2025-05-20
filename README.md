@@ -9,7 +9,8 @@
 
 💬 Discord: &nbsp; `@ashintosh`
 
-🔐 PGP Key: &nbsp; [openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/FCEB0103F54C442025553D099A5D4557604CD37C)
+🔐 PGP Key: &nbsp;
+[openpgp.org](https://keys.openpgp.org/search?q=ash@opensrcit.com)
 
 ## 💻 Tech Stack 
 
