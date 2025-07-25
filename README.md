@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=05FCCF&height=200&section=header&text=Ash%20Wolfe&fontSize=40&fontColor=ffffff&fontAlign=center&fontWeight=700&animation=fadeIn)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=05FCCF&height=200&section=header&text=Ash%20Smith&fontSize=40&fontColor=ffffff&fontAlign=center&fontWeight=700&animation=fadeIn)
 
 ![](https://komarev.com/ghpvc/?username=Ashintosh&color=6aa6f8)
 ![](https://img.shields.io/github/followers/Ashintosh?style=social)
