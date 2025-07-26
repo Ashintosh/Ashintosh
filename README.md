@@ -34,6 +34,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -62,7 +63,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ## 🛠️ Projects 
-- Only working on private projects at the moment
+- [NoPass](https://github.com/Ashintosh/NoPass) - Rust Password Manager
 ---
 <div align="center">
   
