@@ -64,6 +64,7 @@
 
 ## 🛠️ Projects 
 - [NoPass](https://github.com/Ashintosh/NoPass) - Rust Password Manager
+- [rust-mod-creator](https://github.com/Ashintosh/rust-mod-creator) - Simplify creating Rust modules in VSCode
 ---
 <div align="center">
   
