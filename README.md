@@ -65,6 +65,7 @@
 ## 🛠️ Projects 
 - [NoPass](https://github.com/Ashintosh/NoPass) - Rust Password Manager
 - [rust-mod-creator](https://github.com/Ashintosh/rust-mod-creator) - Simplify creating Rust modules in VSCode
+- [hyperion](https://github.com/Ashintosh/hyperion) -  Simple blockchain made in Rust
 ---
 <div align="center">
   
