@@ -62,7 +62,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 🛠️ Projects 
+## 🛠️ Projects
+- [ashinto.sh](https://github.com/Ashintosh/ashinto.sh) - Personal blog for discussing security, privacy, and general IT concepts
 - [NoPass](https://github.com/Ashintosh/NoPass) - Rust Password Manager
 - [rust-mod-creator](https://github.com/Ashintosh/rust-mod-creator) - Simplify creating Rust modules in VSCode
 - [hyperion](https://github.com/Ashintosh/hyperion) -  Simple blockchain made in Rust
