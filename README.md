@@ -10,7 +10,7 @@
 💬 Discord: &nbsp; `@ashintosh`
 
 🔐 PGP Key: &nbsp;
-[openpgp.org](https://keys.openpgp.org/search?q=ash@opensrcit.com)
+[openpgp.org](https://keys.openpgp.org/search?q=ash@ashinto.sh)
 
 ## 💻 Tech Stack 
 
