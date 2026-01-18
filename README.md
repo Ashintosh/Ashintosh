@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/stars/Ashintosh?style=social)
 
 ## 📬 Contact
-✉️ Email: &nbsp; [ash@opensrcit.com](mailto:ash@opensrcit.com)
+✉️ Email: &nbsp; [ash@ashinto.sh](mailto:ash@ashinto.sh)
 
 💬 Discord: &nbsp; `@ashintosh`
 
